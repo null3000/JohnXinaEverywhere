@@ -4,10 +4,10 @@
   "description": "Turns every image into John Xina",
   "version": "1.0.0",
   "icons": {
-    "16": "/images/JohnXina32x32.png",
-    "32": "/images/JohnXina32x32.png",
-    "48": "/images/JohnXina32x32.png",
-    "128": "/images/JohnXina32x32.png"
+    "16": "JohnXina32x32.png",
+    "32": "JohnXina32x32.png",
+    "48": "JohnXina32x32.png",
+    "128": "JohnXina32x32.png"
   },
   "content_scripts": [
     {
@@ -18,10 +18,10 @@
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "/images/JohnXina32x32.png",
-      "32": "/images/JohnXina32x32.png",
-      "48": "/images/JohnXina32x32.png",
-      "128": "/images/JohnXina32x32.png"
+      "16": "JohnXina32x32.png",
+      "32": "JohnXina32x32.png",
+      "48": "JohnXina32x32.png",
+      "128": "JohnXina32x32.png"
     }
   }
 }
